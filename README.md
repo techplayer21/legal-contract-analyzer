@@ -24,10 +24,10 @@ legal-analyzer/ <br>
 ├── data/ <br>
 │   └── uploads/ <br>
 ├── .env <br>                     
-├── .gitignore <br>               
-├── Dockerfile <br>               
-├── docker-compose.yml <br>        
-└── requirements.txt <br>          
+├── .gitignore            
+├── Dockerfile            
+├── docker-compose.yml         
+└── requirements.txt          
 
 ### 🤖 Model Information:
 ​-Primary Model: Llama 3.3 (70B Versatile). <br>
