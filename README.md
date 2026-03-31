@@ -20,9 +20,7 @@ legal-analyzer/ <br>
 │   │   └── llm_service.py <br>
 │   └── utils/ <br>
 │       ├── pdf_loader.py <br>
-│       └── text_chunker.py <br>
-├── data/ <br>
-│   └── uploads/ <br>
+│       └── text_chunker.py <br> ├── data/ <br> │   └── uploads/ <br>
 ├── .env                   
 ├── .gitignore            
 ├── Dockerfile            
