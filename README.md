@@ -21,8 +21,8 @@ legal-analyzer/ <br>
 │   └── utils/ <br>
 │       ├── pdf_loader.py <br>
 │       └── text_chunker.py <br>
-├── data/ <br>
-│   └── uploads/ <br>
+├── data/
+│   └── uploads/
 ├── .env <br>                     
 ├── .gitignore            
 ├── Dockerfile            
