@@ -12,22 +12,13 @@
 ​-Cloud Hosting: Streamlit Community Cloud. <br>
 ​
 ### ​📂 Repository Structure:
-legal-analyzer/ <br>
-├── app/ <br>
-│   ├── main.py <br>
-│   ├── services/ <br>
-│   │   ├── contract_analyzer.py <br>
-│   │   └── llm_service.py <br>
-│   └── utils/ <br>
-│       ├── pdf_loader.py <br>
-│       └── text_chunker.py<br>
-├── data/<br>
-│   └── uploads/ <br>
-├── .env                   
-├── .gitignore            
-├── Dockerfile            
-├── docker-compose.yml         
-└── requirements.txt          
+-​app/main.py: Core Streamlit application handling the UI, file uploads, and cloud path configuration. <br>
+​-app/services/: Backend logic including the Groq API integration and analysis orchestration. <br>
+​-app/utils/: Helper scripts for PDF text extraction and processing. <br>
+​-data/uploads/: Local directory for temporary storage of uploaded document artifacts. <br>
+​-Dockerfile: Configuration for building a portable, production-ready container environment. <br>
+​-.gitignore: Filter to maintain a clean repository by excluding the .env file and caches. <br>
+​-requirements.txt: Comprehensive list of Python dependencies required for the project. <br> 
 
 ### 🤖 Model Information:
 ​-Primary Model: Llama 3.3 (70B Versatile). <br>
