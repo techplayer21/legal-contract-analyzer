@@ -32,3 +32,9 @@
 ​Cloud-Secure Secrets: Uses Streamlit Secrets for encrypted API key management. <br>
 ​Defensive Parsing: Implements .get() methods to prevent UI crashes on incomplete AI data. <br>
 ​Container-Ready: Fully Dockerized for "plug-and-play" deployment. <br>
+
+### 👤 Author:​
+Yash Raj 
+<br>
+Aspiring Machine Learning Engineer
+
