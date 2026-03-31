@@ -19,11 +19,11 @@ legal-analyzer/ <br>
 │   │   ├── contract_analyzer.py <br>
 │   │   └── llm_service.py <br>
 │   └── utils/ <br>
-│       ├── pdf_loader.py <br>
-│       └── text_chunker.py <br>
-├── data/
-│   └── uploads/
-├── .env <br>                     
+│       ├── pdf_loader.py 
+│       └── text_chunker.py 
+├── data/ <br>
+│   └── uploads/ <br>
+├── .env <br>                    
 ├── .gitignore            
 ├── Dockerfile            
 ├── docker-compose.yml         
